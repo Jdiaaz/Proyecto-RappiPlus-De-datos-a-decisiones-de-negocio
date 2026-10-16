@@ -107,11 +107,12 @@ Dashboard de 3 páginas (`RappiPlus_Dashboard.pbix`) construido sobre los CSV li
 | Resumen ejecutivo | KPIs de revenue, costo, profit, gasto en marketing, ticket promedio y cantidad promedio; revenue y profit por categoría; evolución mensual y revenue acumulado del año (YTD) |
 | Detalle de órdenes | Tabla de órdenes con profit resaltado en verde o rojo, cantidad vendida por producto y filtros por categoría y fecha |
 | Detalle de producto | Drill-through: al seleccionar un producto se ven todos sus pedidos |
+<img width="1951" height="1148" alt="image" src="https://github.com/user-attachments/assets/4afe4718-e302-45d9-a70d-c85585991898" />
+<img width="1956" height="1155" alt="image" src="https://github.com/user-attachments/assets/42c49511-7dbd-4624-ac68-4411324be53c" />
+<img width="853" height="546" alt="image" src="https://github.com/user-attachments/assets/baea09d6-7acb-44e8-8f8d-53169d1a3506" />
 
-![Resumen ejecutivo](imagenes/dashboard_1.png)
-![Detalle de órdenes](imagenes/dashboard_2.png)
-![Detalle de producto](imagenes/dashboard_3.png)
 
+!
 ## Autor
 
 Juan David Díaz Bogotá, Colombia
